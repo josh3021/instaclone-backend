@@ -1,0 +1,16 @@
+{
+  "name": "instaclone",
+  "version": "0.1.0",
+  "description": "instaclone backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh3021/instaclone-backend"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
